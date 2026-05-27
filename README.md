@@ -29,7 +29,7 @@ Requires [Steamodded](https://github.com/Steamodded/smods).
 
 The code for this mod was generated with the help of AI.
 
-I do not support the use of AI as a replacement for human skill, creativity, or labour. I used AI in this case because I did not have the coding skills needed to make the mod on my own.
+I do not support the use of AI as a replacement for the skill, creativity, or labour needed to make genuine code. I used AI in this case because I did not have the coding skills needed to make the mod on my own.
 
 I understand that this is contradictory, but I wanted to be transparent about how the mod was made.
 
