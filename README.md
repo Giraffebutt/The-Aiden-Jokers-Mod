@@ -100,19 +100,8 @@ Yellow Aiden mutates your deck.
 
 4. Launch Balatro and enable the mod through Steamodded.
 
-## Thunderstore Notes
-
-Thunderstore package basics expect a package to include `manifest.json`, `README.md`, and `icon.png`, with `CHANGELOG.md` strongly recommended. This README is written in standard Markdown so it can display cleanly on GitHub and Thunderstore.
-
-Reference: [Thunderstore Package Setup Basics](https://hytalemodding.dev/ru-RU/docs/publishing/thunderstore/package-basics)
-
 ## Credits
 
 - **BindyCot**: Mod creator, Joker concepts, sprites, sounds, and integration.
 - **Sjeiti**: Fire shader effect, sourced from [Shadertoy](https://www.shadertoy.com/).
 - **arthurstammet**: TV static shader effect, sourced from [Shadertoy](https://www.shadertoy.com/).
-- **Steamodded team**: Balatro modding framework.
-
-## Disclaimer
-
-This is an unofficial Balatro mod and is not affiliated with LocalThunk, Playstack, or the Balatro team.
