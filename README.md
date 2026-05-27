@@ -1,7 +1,5 @@
 # The Aiden Jokers Mod
 
-A chaotic Balatro mod by **BindyCot** that adds the OG Aiden plus five color-coded Aiden Jokers, each with its own gimmick, custom sounds, sprites, shaders, and card modifiers.
-
 Requires [Steamodded](https://github.com/Steamodded/smods).
 
 ## Joker Lineup
@@ -29,6 +27,5 @@ Requires [Steamodded](https://github.com/Steamodded/smods).
 
 ## Credits
 
-- **BindyCot**: Mod creator, Joker concepts, sprites, sounds, and integration.
 - **Sjeiti**: Fire shader effect, sourced from [Shadertoy](https://www.shadertoy.com/).
 - **arthurstammet**: TV static shader effect, sourced from [Shadertoy](https://www.shadertoy.com/).
