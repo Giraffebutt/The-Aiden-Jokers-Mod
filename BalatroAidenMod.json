@@ -1,0 +1,16 @@
+{
+  "id": "balatroaidenmod",
+  "name": "Aiden Jokers Mod",
+  "display_name": "Aiden Jokers Mod",
+  "author": ["BindyCot"],
+  "description": "Behold, all five evil Aidens including the OG himself as custom Balatro Jokers.",
+  "prefix": "balatroaidenmod",
+  "main_file": "main.lua",
+  "priority": -30,
+  "badge_colour": "FF230A",
+  "badge_text_colour": "FFFFFF",
+  "version": "1.0.0",
+  "dependencies": [
+    "Steamodded (>=1.0.0~BETA-1409x)"
+  ]
+}
