@@ -8,12 +8,12 @@ Requires [Steamodded](https://github.com/Steamodded/smods).
 
 | Joker | Rarity | What it does |
 | --- | --- | --- |
-| **Regular Aiden** | Common | Turns scored cards into **Autistic Cards**, which give **X2 Mult** when scored. |
-| **Blue Aiden** | Uncommon | Rewards bad hands with **Pity**, giving **X2 Mult** and cash before sadness takes him out. |
-| **Green Aiden** | Uncommon | Gives other owned Jokers the **Poop Seal**, a temporary scaling Mult buff. |
-| **Purple Aiden** | Uncommon | Applies the dangerous **Evil Edition** to playing cards. Big upside, increasingly purple consequences. |
-| **Red Aiden** | Uncommon | A comeback Joker for desperate last hands, with retriggers, money, and a fire overlay. |
-| **Yellow Aiden** | Rare | Mutates cards into the **Corruption** suit, giving each corrupted card a random bonus effect. |
+| **Regular Aiden** | Common | The OG Himself. Has a chance to give cards the **Autistic Enhancement** which gives a **X2 Mult** boost when scored.. |
+| **Blue Aiden** | Uncommon | The Saddest Aiden. Blue Aiden will give you **Pity** if you use bad hands like **High Card**. **Pity** Gives the player a **X2 Mult** boost along with cash. Each bad hand will make Blue Aiden gradually become sad which causes him to self destruct. |
+| **Green Aiden** | Uncommon | The Stinkiest Aiden. Green Aiden gives a random joker in your inventory the **Poop Seal** which a temporary scaling Mult buff. |
+| **Purple Aiden** | Uncommon | The Evilest Aiden. Purple Aiden applies the risky **Evil Edition** effect to playing cards. While **Evil Edition** gives great buffs, beware of the consequences to turning your cards **evil**, because it might just destroy your cards! |
+| **Red Aiden** | Uncommon | The Angriest Aiden. Red Aiden uses a comeback mechanic; If you continue to get low scores, Red Aiden will help you out by retriggering your cards one last time, hopefully saving your run. |
+| **Yellow Aiden** | Rare | It's best if we don't pay attention to him..... |
 
 ## Install
 
