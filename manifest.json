@@ -3,5 +3,7 @@
   "version_number": "1.0.0",
   "website_url": "https://github.com/Giraffebutt/The-Aiden-Jokers-Mod",
   "description": "A stupid Balatro mod which adds the Five Evil Aidens along with the OG Aiden to spice up your Balatro game.",
-  "dependencies": []
+  "dependencies": [
+    "Steamodded-Steamodded-0.9.8"
+  ]
 }
